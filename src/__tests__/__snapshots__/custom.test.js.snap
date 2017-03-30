@@ -1,0 +1,273 @@
+exports[`denormalize denormalizes my custom schemas 1`] = `
+Object {
+  "entities": Object {
+    "books": Object {
+      "NIIO7t5d": Object {
+        "annotation": "<p>The recipient of numerous literary prizes, including the National Book Award, the Kafka Award, and the Pushcart Prize, Ursula K. Le Guin is renowned for her spare, elegant prose, rich characterization, and diverse worlds. “The Ones Who Walk Away from Omelas” is a short story originally published in the collection <em>The Wind\'s Twelve Quarters</em>.</p>",
+        "authors": "Ursula K. Le Guin",
+        "bookshelves_count": 3,
+        "can_be_read": false,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/documents-covers/50/63/kO6IEEeH-ipad.jpg?1485798535",
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFwNTtvdDhv9LgwtjmuNTpuNLhv9bkwtztia29lrrIw+PysM/hYoSQWoSQUn2NWH6R////ICN94QAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAcSURBVAjXY2BgZGJmYGFlY2fg4OTiZuDh5eMHAAMgAHkYK5AoAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTAxLTMwVDIwOjQ4OjU3KzAzOjAwRkrSjAAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wMS0zMFQyMDo0ODo1NyswMzowMDcXajAAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAS3RFWHR4YXBNTTpEb2N1bWVudElEAGFkb2JlOmRvY2lkOnBob3Rvc2hvcDo4YjE2YWZkMi1jNzY4LTExZTYtODMzNi05ZDYxZDI3ZDY0YWXteXQ8AAAAAElFTkSuQmCC",
+          "ratio": 0.66,
+          "small": "https://assets12.dev.bookmate.com/assets/documents-covers/50/63/kO6IEEeH-thumb.jpg?1485798535",
+        },
+        "impressions_count": 1,
+        "in_library": false,
+        "in_wishlist": false,
+        "labels": Array [
+          Object {
+            "kind": "private",
+            "title": "Unavailable",
+          },
+        ],
+        "language": "en",
+        "paper_pages": 27,
+        "quotes_count": 0,
+        "readers_count": 10,
+        "title": "The Ones Who Walk Away from Omelas",
+        "uuid": "NIIO7t5d",
+      },
+      "POxgTXmB": Object {
+        "annotation": "<p>A tale of grief and lust, frustration and hilarity, death and family</p><p>Penelope O’Grady and Cara Wall are risking disaster when, like teenagers in any intolerant time and place—here, a Dublin convent school in the late 1970s—they fall in love. Yet Cara, the free spirit, and Pen, the stoic, craft a bond so strong it seems as though nothing could sever it: not the bickering, not the secrets, not even Cara’s infidelities.</p><p>But thirteen years on, a car crash kills Cara and rips the lid off Pen’s world. Pen is still in the closet, teaching at her old school, living under the roof of Cara’s gentle father, who thinks of her as his daughter’s friend. How can she survive widowhood without even daring to claim the word? Over the course of one surreal week of bereavement, she is battered by memories that range from the humiliating, to the exalted, to the erotic, to the funny. It will take Pen all her intelligence and wit to sort through her tumultuous past with Cara, and all the nerve she can muster to start remaking her life.</p>",
+        "authors": "Emma Donoghue",
+        "bookshelves_count": 3,
+        "can_be_read": true,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/documents-covers/6b/f8/SNtanNyb-ipad.jpg?1460511674",
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFbEVG1MbGhDc9nDU5MxAUPh8lOgwWjRsaSxsbNB0jbzEyv4+fbyMjcCkjgzY8tKzD////skx7fQAAAAFiS0dEEJWyDSwAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE2LTEwLTE0VDE0OjU5OjAxKzAzOjAwWk4R/wAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNi0xMC0xNFQxNDo1OTowMSswMzowMCsTqUMAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAAElFTkSuQmCC",
+          "ratio": 0.665,
+          "small": "https://assets12.dev.bookmate.com/assets/documents-covers/6b/f8/SNtanNyb-thumb.jpg?1460511674",
+        },
+        "impressions_count": 0,
+        "in_library": false,
+        "in_wishlist": false,
+        "labels": Array [
+          Object {
+            "kind": "premium",
+            "title": "Premium",
+          },
+        ],
+        "language": "en",
+        "paper_pages": 361,
+        "quotes_count": 0,
+        "readers_count": 7,
+        "title": "Hood",
+        "uuid": "POxgTXmB",
+      },
+      "lHN2cmLV": Object {
+        "annotation": "Stripped of her castle and lands, gently bred Lady Emlyn refuses marriage to a cruel lord and flees to the safety of the greenwood—where she soon falls for a bold forest outlaw, the Black Thorne, who courts danger in King John’s England. Swept up in a game of passion and daring deception, Emlyn learns too late that the mysterious outlaw and the ruthless lord she despises are one and the same man. Now, for both Thorne and Emlyn, the greatest risk of all exists in the truth… and love. REVIEWS:“Excellent… filled with mythical legends, mystery and mayhem… an extremely powerful story.” ~Rendezvous«A glorious romance…an exciting new talent.” ~Romantic Times Book Club«Magnificent… Susan King’s talent is a gift from the gods!” ~Virginia HenleyOTHER TITLES by Susan KingTHE BORDER ROGUES, in series orderThe Raven\'s WishThe Raven\'s MoonThe Heather MoonTHE CELTIC NIGHTS, in series orderThe Stone MaidenThe Swan MaidenThe Sword MaidenLaird of the Wind",
+        "authors": "Susan King",
+        "bookshelves_count": 1,
+        "can_be_read": true,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/documents-covers/c7/20/eHq0zHnm-ipad.jpg?1488769430",
+          "placeholder": "iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAMAAACeL25MAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAADNQTFRFkmlLfk8xpm5Vg15BOSgha1NHj25dXz4rbTEpYz4uZUo5SiIYQggERxcLTyESVBUM////9KRXkAAAAAFiS0dEEJWyDSwAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAZSURBVAgdDcEBDQAADMOgk9S/5h2cFwqFAQFRACMDKORdAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTAzLTA2VDA2OjAzOjUyKzAzOjAwaX9avwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAxNy0wMy0wNlQwNjowMzo1MiswMzowMBgi4gMAAAARdEVYdGpwZWc6Y29sb3JzcGFjZQAyLHVVnwAAACB0RVh0anBlZzpzYW1wbGluZy1mYWN0b3IAMXgxLDF4MSwxeDHplfxwAAAAHnRFWHRyZGY6QmFnACAgICAgICAgICAgICAgICAgICAgICBWs+OEAAAAEnRFWHR4bXBNTTpEZXJpdmVkRnJvbQCXqCQIAAAAAElFTkSuQmCC",
+          "ratio": 0.665,
+          "small": "https://assets12.dev.bookmate.com/assets/documents-covers/c7/20/eHq0zHnm-thumb.jpg?1488769430",
+        },
+        "impressions_count": 0,
+        "in_library": false,
+        "in_wishlist": false,
+        "labels": Array [
+          Object {
+            "kind": "premium",
+            "title": "Premium",
+          },
+        ],
+        "language": "en",
+        "paper_pages": 368,
+        "quotes_count": 0,
+        "readers_count": 10,
+        "title": "The Black Thorne\'s Rose (The Author\'s Cut Edition)",
+        "uuid": "lHN2cmLV",
+      },
+    },
+    "feedEntries": Object {
+      "post-2017-DJtjA7My": Object {
+        "activists": Array [
+          Object {
+            "id": "eFLpg2Db",
+            "schema": "shelves",
+          },
+        ],
+        "entryType": "post",
+        "first_activity_at": 2017,
+        "last_activity_at": 2017,
+        "resources": Array [
+          Object {
+            "id": "DJtjA7My",
+            "schema": "posts",
+          },
+        ],
+        "resources_type": "post",
+        "type": "post",
+      },
+      "post-2017-Kwirvmkj": Object {
+        "activists": Array [
+          Object {
+            "id": "rcLIjiVH",
+            "schema": "shelves",
+          },
+        ],
+        "entryType": "post",
+        "first_activity_at": 2017,
+        "last_activity_at": 2017,
+        "resources": Array [
+          Object {
+            "id": "Kwirvmkj",
+            "schema": "posts",
+          },
+        ],
+        "resources_type": "post",
+        "type": "post",
+      },
+      "post-2017-tjj6Gg5D": Object {
+        "activists": Array [
+          Object {
+            "id": "NQW5rqtv",
+            "schema": "shelves",
+          },
+        ],
+        "entryType": "post",
+        "first_activity_at": 2017,
+        "last_activity_at": 2017,
+        "resources": Array [
+          Object {
+            "id": "tjj6Gg5D",
+            "schema": "posts",
+          },
+        ],
+        "resources_type": "post",
+        "type": "post",
+      },
+    },
+    "posts": Object {
+      "DJtjA7My": Object {
+        "annotation": "War, intrigue, and suspense...
+A sweet story with Robin Hood \"feel\". Tension increases with every chapter. 
+
+Stripped of her castle and lands, gently bred Lady Emlyn refuses marriage to a cruel lord and flees to the safety of the greenwood—where she soon falls for a bold forest outlaw, the Black Thorne, who courts danger in King John’s England.",
+        "book": "lHN2cmLV",
+        "created_at": 1489765108,
+        "creator": "palatiumbookscom",
+        "liked": false,
+        "likes": 0,
+        "readers_count": 0,
+        "resourceType": "post",
+        "uuid": "DJtjA7My",
+      },
+      "Kwirvmkj": Object {
+        "annotation": "Remember \'Omelas\' sign in Spring Day MV ? Try to read the book here.",
+        "book": "NIIO7t5d",
+        "created_at": 1489735933,
+        "creator": "thebookishome",
+        "liked": false,
+        "likes": 0,
+        "readers_count": 0,
+        "resourceType": "post",
+        "uuid": "Kwirvmkj",
+      },
+      "tjj6Gg5D": Object {
+        "annotation": "In Dublin late 1970s, two teenage girls from a convent school fall in love. They\'re together and nothing can separate them - not their opposing personalities, not secrets, not even infidelity. But 13 years later, a car crash rips their lives apart. Hood is about novel about coming to terms with truths in all manners, overcoming the shackles that bind and embracing the love from family.",
+        "book": "POxgTXmB",
+        "created_at": 1489683671,
+        "creator": "international",
+        "liked": false,
+        "likes": 0,
+        "readers_count": 0,
+        "resourceType": "post",
+        "uuid": "tjj6Gg5D",
+      },
+    },
+    "shelves": Object {
+      "NQW5rqtv": Object {
+        "activistType": "shelf",
+        "books_count": 17,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/49/48/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-ipad.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/49/48/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-thumb.jpg",
+        },
+        "creator": "international",
+        "followers_count": 19,
+        "following": false,
+        "title": "Essential Irish Literature",
+        "uuid": "NQW5rqtv",
+      },
+      "eFLpg2Db": Object {
+        "activistType": "shelf",
+        "books_count": 43,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/1b/1b/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-ipad.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/1b/1b/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-thumb.jpg",
+        },
+        "creator": "palatiumbookscom",
+        "followers_count": 118,
+        "following": false,
+        "title": "Fall in love",
+        "uuid": "eFLpg2Db",
+      },
+      "rcLIjiVH": Object {
+        "activistType": "shelf",
+        "books_count": 3,
+        "cover": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/a9/79/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-ipad.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/a9/79/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-thumb.jpg",
+        },
+        "creator": "thebookishome",
+        "followers_count": 0,
+        "following": false,
+        "title": "Based on BTS",
+        "uuid": "rcLIjiVH",
+      },
+    },
+    "users": Object {
+      "international": Object {
+        "avatar": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/ac/0a/f5dd26b79d9df780b19640970f3d35e0-profile_big.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/ac/0a/f5dd26b79d9df780b19640970f3d35e0-profile.jpg",
+        },
+        "bookshelves_count": 187,
+        "followers_count": 197,
+        "following": false,
+        "gender": "m",
+        "library_cards_count": 10,
+        "login": "international",
+        "name": "Bookmate",
+      },
+      "palatiumbookscom": Object {
+        "avatar": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/8c/b7/bbdf965d708503d94d50a887105c2355-profile_big.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/8c/b7/bbdf965d708503d94d50a887105c2355-profile.jpg",
+        },
+        "bookshelves_count": 4,
+        "followers_count": 10,
+        "following": false,
+        "gender": "m",
+        "library_cards_count": 84,
+        "login": "palatiumbookscom",
+        "name": "Palatium Books",
+      },
+      "thebookishome": Object {
+        "avatar": Object {
+          "large": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/7d/3b/4aeaa82752adc2e1c321e2ef18c4705b-profile_big.jpg",
+          "small": "https://assets12.dev.bookmate.com/assets/users-userpics-fingerprint/7d/3b/4aeaa82752adc2e1c321e2ef18c4705b-profile.jpg",
+        },
+        "bookshelves_count": 10,
+        "followers_count": 2,
+        "following": false,
+        "gender": "m",
+        "library_cards_count": 186,
+        "login": "thebookishome",
+        "name": "thebookishome",
+      },
+    },
+  },
+  "result": Array [
+    "post-2017-DJtjA7My",
+    "post-2017-Kwirvmkj",
+    "post-2017-tjj6Gg5D",
+  ],
+}
+`;
