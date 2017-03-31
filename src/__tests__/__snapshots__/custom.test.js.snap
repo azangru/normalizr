@@ -86,12 +86,6 @@ Object {
     },
     "feedEntries": Object {
       "post-2017-DJtjA7My": Object {
-        "activists": Array [
-          Object {
-            "id": "eFLpg2Db",
-            "schema": "shelves",
-          },
-        ],
         "entryType": "post",
         "first_activity_at": 2017,
         "last_activity_at": 2017,
@@ -105,12 +99,6 @@ Object {
         "type": "post",
       },
       "post-2017-Kwirvmkj": Object {
-        "activists": Array [
-          Object {
-            "id": "rcLIjiVH",
-            "schema": "shelves",
-          },
-        ],
         "entryType": "post",
         "first_activity_at": 2017,
         "last_activity_at": 2017,
@@ -124,12 +112,6 @@ Object {
         "type": "post",
       },
       "post-2017-tjj6Gg5D": Object {
-        "activists": Array [
-          Object {
-            "id": "NQW5rqtv",
-            "schema": "shelves",
-          },
-        ],
         "entryType": "post",
         "first_activity_at": 2017,
         "last_activity_at": 2017,
@@ -179,47 +161,6 @@ Stripped of her castle and lands, gently bred Lady Emlyn refuses marriage to a c
         "readers_count": 0,
         "resourceType": "post",
         "uuid": "tjj6Gg5D",
-      },
-    },
-    "shelves": Object {
-      "NQW5rqtv": Object {
-        "activistType": "shelf",
-        "books_count": 17,
-        "cover": Object {
-          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/49/48/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-ipad.jpg",
-          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/49/48/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-thumb.jpg",
-        },
-        "creator": "international",
-        "followers_count": 19,
-        "following": false,
-        "title": "Essential Irish Literature",
-        "uuid": "NQW5rqtv",
-      },
-      "eFLpg2Db": Object {
-        "activistType": "shelf",
-        "books_count": 43,
-        "cover": Object {
-          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/1b/1b/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-ipad.jpg",
-          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/1b/1b/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-thumb.jpg",
-        },
-        "creator": "palatiumbookscom",
-        "followers_count": 118,
-        "following": false,
-        "title": "Fall in love",
-        "uuid": "eFLpg2Db",
-      },
-      "rcLIjiVH": Object {
-        "activistType": "shelf",
-        "books_count": 3,
-        "cover": Object {
-          "large": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/a9/79/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-ipad.jpg",
-          "small": "https://assets12.dev.bookmate.com/assets/bookshelves-covers/a9/79/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-thumb.jpg",
-        },
-        "creator": "thebookishome",
-        "followers_count": 0,
-        "following": false,
-        "title": "Based on BTS",
-        "uuid": "rcLIjiVH",
       },
     },
     "users": Object {

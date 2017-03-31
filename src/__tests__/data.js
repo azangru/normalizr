@@ -53,28 +53,6 @@ export default [
           ]
         }
       }
-    ],
-    "activists": [
-      {
-        "uuid": "eFLpg2Db",
-        "title": "Fall in love",
-        "cover": {
-          "large": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/1b\/1b\/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-ipad.jpg",
-          "small": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/1b\/1b\/e3c913a4eeec94362aea47470d884cfd-eFLpg2Db-thumb.jpg"
-        },
-        "followers_count": 118,
-        "books_count": 43,
-        "following": false,
-        "creator": {
-          "name": "Palatium Books",
-          "login": "palatiumbookscom",
-          "avatar": {
-            "large": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/8c\/b7\/bbdf965d708503d94d50a887105c2355-profile_big.jpg",
-            "small": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/8c\/b7\/bbdf965d708503d94d50a887105c2355-profile.jpg"
-          },
-          "gender": "m"
-        }
-      }
     ]
   },
   {
@@ -131,28 +109,6 @@ export default [
           ]
         }
       }
-    ],
-    "activists": [
-      {
-        "uuid": "rcLIjiVH",
-        "title": "Based on BTS",
-        "cover": {
-          "large": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/a9\/79\/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-ipad.jpg",
-          "small": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/a9\/79\/3056f334b6a06aff65eaa057434de71d-rcLIjiVH-thumb.jpg"
-        },
-        "followers_count": 0,
-        "books_count": 3,
-        "following": false,
-        "creator": {
-          "name": "thebookishome",
-          "login": "thebookishome",
-          "avatar": {
-            "large": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/7d\/3b\/4aeaa82752adc2e1c321e2ef18c4705b-profile_big.jpg",
-            "small": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/7d\/3b\/4aeaa82752adc2e1c321e2ef18c4705b-profile.jpg"
-          },
-          "gender": "m"
-        }
-      }
     ]
   },
   {
@@ -207,28 +163,6 @@ export default [
               "title": "Premium"
             }
           ]
-        }
-      }
-    ],
-    "activists": [
-      {
-        "uuid": "NQW5rqtv",
-        "title": "Essential Irish Literature",
-        "cover": {
-          "large": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/49\/48\/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-ipad.jpg",
-          "small": "https:\/\/assets12.dev.bookmate.com\/assets\/bookshelves-covers\/49\/48\/077337846a10eb8cad20144cb96f92f1-NQW5rqtv-thumb.jpg"
-        },
-        "followers_count": 19,
-        "books_count": 17,
-        "following": false,
-        "creator": {
-          "name": "Bookmate",
-          "login": "international",
-          "avatar": {
-            "large": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/ac\/0a\/f5dd26b79d9df780b19640970f3d35e0-profile_big.jpg",
-            "small": "https:\/\/assets12.dev.bookmate.com\/assets\/users-userpics-fingerprint\/ac\/0a\/f5dd26b79d9df780b19640970f3d35e0-profile.jpg"
-          },
-          "gender": "m"
         }
       }
     ]
